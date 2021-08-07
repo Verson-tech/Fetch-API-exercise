@@ -31,3 +31,8 @@ body{
     background-repeat: no-repeat;
     background-blend-mode: hard-light;
 }
+h1{
+    font-family: 'Bangers', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Yellowtail', cursive;
+}
